@@ -2,23 +2,6 @@
 
 _An intelligent, AI-powered web chatbot designed to deliver contextual and real-time responses using Google Gemini, built with a modern React-based frontend architecture._
 
----
-
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Project Goal](#project-goal)
-- [Tools & Technologies](#tools--technologies)
-- [Project Structure](#project-structure)
-- [Architecture & Workflow](#architecture--workflow)
-- [Gemini API Integration](#gemini-api-integration)
-- [How to Run This Project](#how-to-run-this-project)
-- [Future Enhancements](#future-enhancements)
-- [Author & Contact](#author--contact)
-
----
-
 ## 🎯 Overview
 
 This project is a **web-based AI chatbot** that integrates the **Google Gemini API** to generate intelligent, conversational responses in real time. It is built using **React, JavaScript, HTML, and CSS**, following a **component-based architecture** with centralized state management via **React Context API**. The application demonstrates how modern frontend systems can leverage **large language models (LLMs)** for real-world applications.
@@ -174,9 +157,9 @@ Navigate to `http://localhost:5173` (or the port shown in your terminal)
 
 ## 👨‍💻 Author & Contact
 
-**Kushal**  
+**Kaushal Kumar**  
 Frontend / Full Stack Developer  
-React • MERN • Java • Python • AI Projects
+React  • JavaScript • CSS • HTML
 
 📧 Email: kaushalkr.585@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/kaushal-kumar-1a0370377/
