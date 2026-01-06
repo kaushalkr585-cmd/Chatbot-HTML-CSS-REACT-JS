@@ -178,8 +178,8 @@ Navigate to `http://localhost:5173` (or the port shown in your terminal)
 Frontend / Full Stack Developer  
 React • MERN • Java • Python • AI Projects
 
-📧 Email: [your.email@example.com](kaushalkr.585@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaushal-kumar-1a0370377/)  
-🐱 GitHub: [github.com/your-username](https://github.com/kaushalkr585-cmd/)  
+📧 Email: kaushalkr.585@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/kaushal-kumar-1a0370377/
+🐱 GitHub: https://github.com/kaushalkr585-cmd/
 
 ---
